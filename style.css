@@ -1,4 +1,23 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:#000000;}
+h1{color:CCCCCC;}
 
+#panel {
+  border-radius: 15px;
+  background: #FFFFFF;
+  padding: 20px; 
+  width: 400px;
+  height: 400px; 
+  text-align:center;
+  align:center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+mark { 
+  background-color: yellow;
+  color: black;
+}
 
